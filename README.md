@@ -1,2 +1,5 @@
-# base_editor_offtarget
-![image](https://user-images.githubusercontent.com/108814457/177984352-32679a96-ee85-49b3-a213-535a0d9e7bbf.png)
+# ABE8e adenine base editor precisely and efficiently corrects a COL7A1 nonsense mutation
+
+---
+
+![affiliations](figures/affiliations.png)
